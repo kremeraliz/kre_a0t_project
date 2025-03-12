@@ -25,7 +25,7 @@ def generate_launch_description():
             ]
         ),
         # Node(
-        #     package='ros2_cpp_template',
+        #     package='kre_a0t_project',
         #     executable='simple_sub_node',
         #     output='screen',
         # ),
